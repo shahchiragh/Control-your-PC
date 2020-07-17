@@ -33,3 +33,29 @@ Implementation:
 IFTTT and Pushbullet:
 ![Overview](https://github.com/shahchiragh/Control-your-PC/blob/master/images/architecture.PNG)
 
+Web Interface: 
+![Web](https://github.com/shahchiragh/Control-your-PC/blob/master/images/web_interface.PNG)
+
+Tasker: 
+![Web](https://github.com/shahchiragh/Control-your-PC/blob/master/images/tasker.PNG)
+
+Wake on LAN: 
+![Web](https://github.com/shahchiragh/Control-your-PC/blob/master/images/WOL.PNG)
+
+Dialogflow: 
+![Web](https://github.com/shahchiragh/Control-your-PC/blob/master/images/diagflow.PNG)
+
+Difficulties:
+ - IFTTT with Alexa has not options to give parameters
+ - Turning system on using WOL wireless has issues
+ - Turning system on requires pre-hand configurations
+
+Future Work & Enhancements:
+ - Seamless realtime Computer/Device operations 
+ - Secure Turning On/Off Computers wirelessly
+ - Connecting Database with Dialogflow
+ - Connecting applications with Dialogflow
+ - Smoother NLP functionalities
+
+
+
