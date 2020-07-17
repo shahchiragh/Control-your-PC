@@ -10,12 +10,12 @@ Motivation:
 Project Setup:
  - Software's:
 	- Applets:
-	 - IFTTT
-	 - PushBullet
-	 - Tasker
-	 - DialogFlow
+		- IFTTT
+		- PushBullet
+		- Tasker
+		- DialogFlow
 	- Languages:
-	 - Php and Python
+		- Php and Python
  - Hardware:
    - DELL Laptop
    - Apple MAC Book Pro
@@ -30,4 +30,6 @@ Implementation:
 	- Customized interactions to perform computer operations with backend Python script
 	- Control multiple PCs 
 
+IFTTT and Pushbullet:
+![Overview](architecture.png)
 
