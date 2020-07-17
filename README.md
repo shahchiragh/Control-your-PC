@@ -31,5 +31,5 @@ Implementation:
 	- Control multiple PCs 
 
 IFTTT and Pushbullet:
-![Overview](architecture.png)
+![Overview](images/architecture.png)
 
